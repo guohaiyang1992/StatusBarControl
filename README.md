@@ -47,6 +47,6 @@ StatusBarControl.transparentStatusBarWithShadow(this);
 
 ```
 dependencies {
-     compile 'com.github.guohaiyang1992:WaveView:0.2'
+    compile 'com.github.guohaiyang1992:StatusBarControl:1.0'
 	}
 ```
